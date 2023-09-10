@@ -1,0 +1,24 @@
+2023/09/09-02:12:30.834 9d18 Reusing MANIFEST C:\Users\hi\Desktop\whatsapp-bot\.wwebjs_auth\session-client-one\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/09/09-02:12:30.835 9d18 Recovering log #275
+2023/09/09-02:12:31.048 9d18 Reusing old log C:\Users\hi\Desktop\whatsapp-bot\.wwebjs_auth\session-client-one\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000275.log 
+2023/09/09-02:13:10.138 7434 Level-0 table #289: started
+2023/09/09-02:13:10.206 7434 Level-0 table #289: 1039810 bytes OK
+2023/09/09-02:13:10.208 7434 Delete type=0 #275
+2023/09/09-02:13:10.286 7434 Compacting 1@0 + 0@1 files
+2023/09/09-02:13:10.409 7434 Generated table #290@0: 24533 keys, 664206 bytes
+2023/09/09-02:13:10.409 7434 Compacted 1@0 + 0@1 files => 664206 bytes
+2023/09/09-02:13:10.410 7434 compacted to: files[ 0 1 10 0 0 0 0 ]
+2023/09/09-02:13:10.632 9fec Compacting 1@1 + 10@2 files
+2023/09/09-02:13:10.864 9fec Generated table #291@1: 50931 keys, 2214560 bytes
+2023/09/09-02:13:11.003 9fec Generated table #292@1: 4529 keys, 2157383 bytes
+2023/09/09-02:13:11.112 9fec Generated table #293@1: 3966 keys, 2163756 bytes
+2023/09/09-02:13:11.217 9fec Generated table #294@1: 3458 keys, 2162706 bytes
+2023/09/09-02:13:11.366 9fec Generated table #295@1: 15384 keys, 2177777 bytes
+2023/09/09-02:13:11.780 9fec Generated table #296@1: 27064 keys, 2263097 bytes
+2023/09/09-02:13:12.063 9fec Generated table #297@1: 32616 keys, 2235469 bytes
+2023/09/09-02:13:12.288 9fec Generated table #298@1: 41004 keys, 2172382 bytes
+2023/09/09-02:13:12.654 9fec Generated table #299@1: 102151 keys, 2252848 bytes
+2023/09/09-02:13:12.982 9fec Generated table #300@1: 77190 keys, 1726771 bytes
+2023/09/09-02:13:12.982 9fec Compacted 1@1 + 10@2 files => 21526749 bytes
+2023/09/09-02:13:12.983 9fec compacted to: files[ 0 0 10 0 0 0 0 ]
+2023/09/09-02:13:12.984 9fec Delete type=2 #289
